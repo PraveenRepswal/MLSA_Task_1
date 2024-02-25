@@ -34,7 +34,7 @@ const projectList = [
     title: "LinkedIn Profile",
     description:
       "Profile of Praveen Kumar Repswal, a Software Developer and Data Analyst student.",
-    url: "https://www.linkedin.com/in/praveen-repswal/",
+    url: "https://www.linkedin.com/in/praveen-repswal",
   },
   {
     title: "GitHub Profile",
